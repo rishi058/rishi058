@@ -19,21 +19,21 @@
 &nbsp; &nbsp; &nbsp;
 <a href="https://instagram.com/_rishi_ryan_" target="blank"><img align="center" src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/128/Instagram-icon.png" alt="_rishi_ryan_" height="40" width="40" /></a>
 &nbsp; &nbsp; &nbsp;
-<a href="https://www.codechef.com/users/rishi_058" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rishi_058" height="40" width="40" /></a>
+<a href="https://www.codechef.com/users/rishi_058" target="blank"><img align="center" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="rishi_058" height="40" width="40" /></a>
 &nbsp; &nbsp; &nbsp;
-<a href="https://codeforces.com/profile/rihi_058" target="blank"><img align="center" src="https://icons.iconarchive.com/icons/simpleicons-team/simple/512/codeforces-icon.png" alt="rihi_058" height="40" width="40" /></a>
+<a href="https://codeforces.com/profile/rihi_058" target="blank"><img align="center" src="https://codeforces.com/predownloaded/ef/18/ef18d60f29c572514c03183827e1d797145d4149.png" alt="rihi_058" height="40" width="40" /></a>
 &nbsp; &nbsp; &nbsp;
-<a href="https://www.leetcode.com/rishi_058" target="blank"><img align="center" src="https://icons.iconarchive.com/icons/simpleicons-team/simple/512/leetcode-icon.png" alt="rishi_058" height="40" width="40" /></a>
+<a href="https://www.leetcode.com/rishi_058" target="blank"><img align="center" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png" alt="rishi_058" height="40" width="40" /></a>
 &nbsp; &nbsp; &nbsp;
-<a href="https://auth.geeksforgeeks.org/user/rishihelloworld" target="blank"><img align="center" src="https://icons.iconarchive.com/icons/simpleicons-team/simple/512/geeksforgeeks-icon.png" alt="rishihelloworld" height="40" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/rishihelloworld" target="blank"><img align="center" src="https://www.geeksforgeeks.org/wp-content/uploads/gfg_200X200-1.png" alt="rishihelloworld" height="40" width="40" /></a>
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
 
 <p align="left"> 
 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://icons.iconarchive.com/icons/fa-team/fontawesome-brands/512/FontAwesome-Brands-Aws-icon.png" alt="aws" width="40" height="40"/> </a>
-&nbsp; &nbsp; &nbsp;
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/736/527/png-transparent-amazon-com-amazon-web-services-cloud-computing-internet-serverless-computing-cloud-computing-text-service-orange.png" alt="aws" width="60" height="40"/> </a>
+&nbsp; &nbsp;
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a>
 &nbsp; &nbsp; &nbsp;
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/6e/46/e7/6e46e7dbe2bb73dacc055e5dbd85c3ad.png" alt="c" width="40" height="40"/> </a> 
@@ -42,7 +42,7 @@
 &nbsp; &nbsp; &nbsp;
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
 &nbsp; &nbsp; &nbsp;
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/512/docker-icon.png" alt="docker" width="40" height="40"/> </a> 
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="docker" width="40" height="40"/> </a> 
 &nbsp; &nbsp; &nbsp;
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
  &nbsp; &nbsp; &nbsp;
@@ -52,7 +52,7 @@
  &nbsp; &nbsp; &nbsp;
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
 &nbsp; &nbsp; &nbsp;
-  <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://icons.iconarchive.com/icons/fa-team/fontawesome-brands/512/FontAwesome-Brands-Golang-icon.png" alt="go" width="40" height="40"/> </a>
+  <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/profile_images/1142154201444823041/O6AczwfV_400x400.png" alt="go" width="40" height="40"/> </a>
   &nbsp; &nbsp; &nbsp; 
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
   &nbsp; &nbsp; &nbsp;
@@ -64,7 +64,9 @@
   &nbsp; &nbsp; &nbsp;
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/441/460/png-transparent-postgresql-plain-wordmark-logo-icon-thumbnail.png" alt="postgresql" width="40" height="40"/> </a> 
   &nbsp; &nbsp; &nbsp;
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+&nbsp; &nbsp; &nbsp;
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 &nbsp; &nbsp; &nbsp;
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
 
@@ -75,13 +77,9 @@
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rishi058&show_icons=true&locale=en" alt="rishi058" />
+<img src="https://github-readme-stats.vercel.app/api?username=rishi058&count_private=true&show_icons=true&theme=synthwave" alt="rishi058" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rishi058&" alt="rishi058" />
-</div>
-
-<div align="center">
-![GitHub Streak](https://streak-stats.demolab.com/?user=rishi058&theme=dark&hide_border=true&mode=weekly&background=-45%2C000000%2C515151)
+<img src="https://streak-stats.demolab.com/?user=rishi058&theme=dark&hide_border=true&mode=weekly&background=-45%2C000000%2C515151" alt="rishi058" />
 </div>
