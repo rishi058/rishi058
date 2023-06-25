@@ -81,3 +81,7 @@
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishi058&" alt="rishi058" />
 </div>
+
+<div align="center">
+![GitHub Streak](https://streak-stats.demolab.com/?user=rishi058&theme=dark&hide_border=true&mode=weekly&background=-45%2C000000%2C515151)
+</div>
