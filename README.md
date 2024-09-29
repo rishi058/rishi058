@@ -43,13 +43,9 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishi058&theme=github_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rishi058&theme=github_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rishi058&theme=github_dark&utcOffset=8) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rishi058&theme=github_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rishi058&theme=github_dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rishi058&theme=github_dark)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rishi058&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rishi058&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rishi058&theme=github_dark)
 
 <img src="https://streak-stats.demolab.com/?user=rishi058&theme=dark&hide_border=true&mode=weekly&background=-45%2C000000%2C515151" alt="rishi058" />
 
