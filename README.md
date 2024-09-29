@@ -77,6 +77,6 @@
 <ol>
   <li>Arithmetic Expression Evaluator (PEDMAS) {C++}.</li>
   <li>Reingold-Tilford Tree Drawing Algorithm Implementation {C++}.</li>
-  <li>TeleBot Link Remover</li>
+  <li>TeleBot Link Remover {Python}.</li>
 </ol>
 
