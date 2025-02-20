@@ -68,7 +68,7 @@
 <ol>
   <li>To-do List (HTML, CSS, JAVA).</li>
   <li>Portfolio (NextJS, TailwindCSS).</li>
-  <li>Notes App (React, Vue, TailwindCSS, Node, Express, MongoDB).</li>
+  <li>Notes App (Vite + React, TailwindCSS, Node, Express, MongoDB).</li>
   <li>Chat App (React, Typescript, TailwindCSS, SocketIO, MongoDB).</li>
   <li>Recursion Visualiser (C++, NextJS, Typescript).</li>
 </ol>
